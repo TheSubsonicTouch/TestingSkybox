@@ -1,0 +1,223 @@
+kind,sleeping_dogs_rva,triad_wars_rva,confidence,note
+function,0x1810,,X,unresolved
+function,0x2080,0x3f20,B,similar (0.99) calls 1.00 str 1.00
+function,0x3c70,0x7080,C,positional+similarity 0.92 (runner-up 0.53)
+function,0xd590,0x11ba0,A,identical bytes (unique)
+function,0xeb70,0x13300,A,identical bytes (unique)
+function,0x15c30,0x1a720,A,identical bytes (unique)
+function,0x162a0,0x1ad90,A,identical bytes (unique)
+function,0x18f00,0x1d8b0,A,identical bytes (unique)
+function,0x69ec0,0x70bd0,A,identical bytes (unique)
+function,0x6e560,0x75360,A,identical bytes (unique)
+function,0x6ee30,0x75c70,B,similar (1.00) calls 1.00 str 0.00
+function,0x6ff90,,X,unresolved
+function,0x708d0,,X,unresolved
+function,0x956e0,0xaa610,A,identical bytes (unique)
+function,0x957f0,0xaa740,A,identical bytes (unique)
+function,0x99880,0xaeaa0,A,identical bytes (unique)
+function,0xa0bc0,,X,unresolved
+function,0xa0ea0,0xb67f0,A,identical bytes (unique)
+function,0xa1000,,X,unresolved
+function,0xa1950,0xb7150,A,identical bytes (unique)
+function,0xa68c0,0xbc0d0,A,identical bytes (unique)
+function,0xaa990,0xc05c0,A,identical bytes (unique)
+function,0xab970,0xc15e0,A,identical bytes (unique)
+function,0xac0e0,0xc1d30,A,identical bytes (unique)
+function,0xb2850,,X,unresolved
+function,0xb6710,0xcc370,A,identical bytes (unique)
+function,0xba270,0xd0210,A,identical bytes (unique)
+function,0xba6e0,0xd0680,A,identical bytes (unique)
+function,0xd6e30,0xeeae0,A,identical bytes (unique)
+function,0xd70b0,0xeed60,A,identical bytes (unique)
+function,0x1440b0,0x15bb60,B,similar (0.98) calls 1.00 str 0.00
+function,0x15dfb0,0x17e2e0,A,identical bytes (unique)
+function,0x161bb0,0x1992a0,C,positional+similarity 0.90 (runner-up 0.00)
+function,0x164090,0x19b5d0,B,similar (1.00) calls 1.00 str 0.00
+function,0x166b60,,X,unresolved
+function,0x170b80,0x1a8010,A,identical bytes (unique)
+function,0x1734b0,0x1aabe0,A,identical bytes (unique)
+function,0x176b50,0x1ae1b0,C,positional+similarity 1.00 (runner-up 0.00)
+function,0x1824e0,0x1b9e20,A,identical bytes (unique)
+function,0x187be0,0x1bf580,A,identical bytes (unique)
+function,0x18a6a0,0x1c2150,A,identical bytes (unique)
+function,0x18b720,0x1c3230,A,identical bytes (unique)
+function,0x18f1e0,0x1c6f30,A,identical bytes (unique)
+function,0x18ff10,,X,unresolved
+function,0x1905c0,,X,unresolved
+function,0x190a50,0x1c8a60,A,identical bytes (unique)
+function,0x190ad0,0x1c8ae0,A,identical bytes (unique)
+function,0x190c40,0x1c8c50,A,identical bytes (unique)
+function,0x1911f0,0x1c94f0,A,identical bytes (unique)
+function,0x191250,0x1c9610,A,identical bytes (unique)
+function,0x1916d0,0x1c9a90,A,identical bytes (unique)
+function,0x191d60,0x1ca120,A,identical bytes (unique)
+function,0x1b65c0,0x1f03c0,A,identical bytes (unique)
+function,0x1b6890,0x1f0690,A,identical bytes (unique)
+function,0x1b6eb0,0x1f0ca0,A,identical bytes (unique)
+function,0x1b9390,0x1f3890,A,identical bytes (unique)
+function,0x1bb790,0x1f5e80,A,identical bytes (unique)
+function,0x1bbb90,0x1f6280,A,identical bytes (unique)
+function,0x1bc5b0,0x1f6ca0,C,positional+similarity 1.00 (runner-up 0.36)
+function,0x1c78f0,0x201f10,B,similar (0.85) calls 1.00 str 1.00
+function,0x1c9d30,0x2043f0,A,identical bytes (unique)
+function,0x1ca250,0x204940,B,similar (0.91) calls 1.00 str 0.00
+function,0x1ca5a0,0x204ca0,A,identical bytes (unique)
+function,0x1cb150,0x2057c0,B,similar (0.97) calls 1.00 str 0.00
+function,0x1d1520,,X,unresolved
+function,0x1d2b00,0x20d2e0,A,identical bytes (unique)
+function,0x1d2b63,0x20d343,A,identical bytes (unique)
+function,0x1d6220,0x210c20,A,identical bytes (unique)
+function,0x1e8d50,,X,unresolved
+function,0x1e9e60,,X,unresolved
+function,0x1e9ef0,,X,unresolved
+function,0x1e9ff0,,X,unresolved
+function,0x1ea3b0,,X,unresolved
+function,0x1eae90,,X,unresolved
+function,0x1eafe0,,X,unresolved
+function,0x1eb030,,X,unresolved
+function,0x1eb1b0,,X,unresolved
+function,0x1f1e70,,X,unresolved
+function,0x1f4060,,X,unresolved
+function,0x1f4680,,X,unresolved
+function,0x1f6f00,,X,unresolved
+function,0x1f6fb0,,X,unresolved
+function,0x1f75f0,,X,unresolved
+function,0x1f8090,,X,unresolved
+function,0x1fbd40,,X,unresolved
+function,0x1fc160,,X,unresolved
+function,0x207700,,X,unresolved
+function,0x22c580,0x239320,A,identical bytes (unique)
+function,0x2316d0,0x23e410,A,identical bytes (unique)
+function,0x2350f0,0x241e30,A,identical bytes (unique)
+function,0x236a50,,X,unresolved
+function,0x23e2f0,0x24abd0,A,identical bytes (unique)
+function,0x26f170,0x29f230,C,positional+similarity 1.00 (runner-up 0.47)
+function,0x270140,0x2a0130,C,positional+similarity 1.00 (runner-up 0.47)
+function,0x270360,,X,unresolved
+function,0x2707f0,,X,unresolved
+function,0x272a80,,X,unresolved
+function,0x272e40,,X,unresolved
+function,0x292a50,,X,unresolved
+function,0x307ec0,0x33b8d0,C,positional+similarity 0.93 (runner-up 0.59)
+function,0x362650,0x399390,A,identical bytes (unique)
+function,0x366d40,0x39ddb0,A,identical bytes (unique)
+function,0x3694f0,0x3a0560,A,identical bytes (unique)
+function,0x37bc60,,X,unresolved
+function,0x37c400,0x3b3390,A,identical bytes (unique)
+function,0x37c560,0x3b34f0,A,identical bytes (unique)
+function,0x37e560,0x3b53f0,B,similar (1.00) calls 1.00 str 1.00
+function,0x3852b0,0x3bc690,A,identical bytes (unique)
+function,0x3a0be0,0x3d7ee0,A,identical bytes (unique)
+function,0x3ae110,0x3e5670,A,identical bytes (unique)
+function,0x3aedd0,0x3e63f0,A,identical bytes (unique)
+function,0x3c5f10,0x3fe900,A,identical bytes (unique)
+function,0x3c84b0,,X,unresolved
+function,0x3cb090,0x403e50,B,similar (1.00) calls 1.00 str 0.00
+function,0x3ce500,0x407630,C,positional+similarity 1.00 (runner-up 0.27)
+function,0x3f03c0,0x42b9d0,B,similar (1.00) calls 1.00 str 0.00
+function,0x3f0550,0x42bbb0,C,positional+similarity 1.00 (runner-up 0.46)
+function,0x412240,,X,unresolved
+function,0x413f20,,X,unresolved
+function,0x414b60,0x468500,B,similar (0.91) calls 1.00 str 1.00
+function,0x4204f0,,X,unresolved
+function,0x421470,,X,unresolved
+function,0x43f280,0x4c81d0,C,positional+similarity 0.96 (runner-up 0.50)
+function,0x43fbe0,,X,unresolved
+function,0x441910,,X,unresolved
+function,0x454510,0x4de150,B,similar (0.92) calls 1.00 str 1.00
+function,0x4585f0,0x4e24f0,A,identical bytes (unique)
+function,0x461a40,0x4ec110,C,positional+similarity 1.00 (runner-up 0.31)
+function,0x4661d0,0x4f0f80,A,identical bytes (unique)
+function,0x46d870,0x4f8df0,A,identical bytes (unique)
+function,0x474a00,,X,unresolved
+function,0x475160,,X,unresolved
+function,0x475170,0x501120,C,positional+similarity 0.92 (runner-up 0.31)
+function,0x475360,,X,unresolved
+function,0x475540,,X,unresolved
+function,0x476dc0,,X,unresolved
+function,0x47bdc0,0x5084f0,C,positional+similarity 1.00 (runner-up 0.51)
+function,0x482b30,0x50f590,A,identical bytes (unique)
+function,0x49e860,,X,unresolved
+function,0x4a0690,,X,unresolved
+function,0x4aeff0,,X,unresolved
+function,0x4b6a50,,X,unresolved
+function,0x4e2180,0x564210,A,identical bytes (unique)
+function,0x4e22d0,0x564360,C,positional+similarity 1.00 (runner-up 0.16)
+function,0x510550,0x594a30,A,identical bytes (unique)
+function,0x51fea0,0x5bccd0,A,identical bytes (unique)
+function,0x526f90,,X,unresolved
+function,0x534420,,X,unresolved
+function,0x5399e0,0x5d8600,A,identical bytes (unique)
+function,0x547560,,X,unresolved
+function,0x549120,0x5e7b00,C,positional+similarity 1.00 (runner-up 0.46)
+function,0x54d3d0,0x5ec650,B,similar (0.99) calls 1.00 str 1.00
+function,0x54ed20,,X,unresolved
+function,0x54ee70,0x5edb50,C,positional+similarity 1.00 (runner-up 0.00)
+function,0x54f410,,X,unresolved
+function,0x5500f0,,X,unresolved
+function,0x556870,0x5f5ab0,C,positional+similarity 0.95 (runner-up 0.00)
+function,0x557a40,,X,unresolved
+function,0x55e8c0,0x5fdfa0,C,positional+similarity 1.00 (runner-up 0.00)
+function,0x582d80,0x59f5d0,B,similar (1.00) calls 1.00 str 0.00
+function,0x58afe0,0x5a77e0,B,similar (1.00) calls 1.00 str 0.00
+function,0x5925a0,,X,unresolved
+function,0x5b7350,0x63df30,A,identical bytes (unique)
+function,0x5b7410,0x63dff0,A,identical bytes (unique)
+function,0x5ee1b0,0x691c70,C,positional+similarity 1.00 (runner-up 0.46)
+function,0x64adf0,0x74d300,A,identical bytes (unique)
+function,0x6587a0,0x75a7c0,A,identical bytes (unique)
+function,0x658b90,0x75abb0,B,similar (0.87) calls 1.00 str 0.00
+function,0x658c90,,X,unresolved
+function,0x6591e0,0x75b200,A,identical bytes (unique)
+function,0x670840,0x7724a0,C,positional+similarity 1.00 (runner-up 0.00)
+function,0x674480,,X,unresolved
+function,0x677130,0x778e90,A,identical bytes (unique)
+function,0x6782b0,0x77a030,B,similar (0.92) calls 1.00 str 1.00
+function,0x67a630,,X,unresolved
+function,0x6864b0,0x788180,B,similar (0.99) calls 1.00 str 0.73
+function,0x6892e0,0x78af90,A,identical bytes (unique)
+function,0x6899d0,,X,unresolved
+function,0x68a270,0x78c000,B,similar (1.00) calls 1.00 str 1.00
+function,0x68a5c0,0x78c340,B,similar (1.00) calls 1.00 str 1.00
+function,0x68a9b0,,X,unresolved
+function,0x68d7f0,0x78f370,A,identical bytes (unique)
+function,0x68d840,,X,unresolved
+function,0x68dca0,0x78f7b0,A,identical bytes (unique)
+function,0x68dff0,,X,unresolved
+function,0x68e020,0x78fae0,A,identical bytes (unique)
+function,0x68e350,,X,unresolved
+function,0x68e770,0x7902f0,A,identical bytes (unique)
+function,0x68eb30,,X,unresolved
+function,0x6a08a0,0x79fe20,B,similar (0.99) calls 1.00 str 0.00
+function,0x6a2770,0x7a23e0,B,similar (1.00) calls 1.00 str 1.00
+function,0xa18a20,0xb23c70,A,identical bytes (unique)
+function,0xa36b90,,X,unresolved
+function,0xc56eb0,0xd829c0,A,identical bytes (unique)
+function,0xe13020,0xf3eba0,A,identical bytes (unique)
+function,0x12ace10,0x141e350,A,identical bytes (unique)
+data,0x207ae69,0x22dd2d8,A-voted,votes 12
+data,0x207ae6a,0x22dd2d9,A-voted,votes 3
+data,0x2090514,0x22fa0ec,A-voted,votes 6
+data,0x2090515,0x22fa0ed,A-voted,votes 6
+data,0x2090516,0x22fa0ee,A-voted,votes 6
+data,0x2091398,,X,
+data,0x216b2c8,0x23d73c8,A-voted,votes 171
+data,0x2173df0,0x23e0150,A-voted,votes 6
+data,0x2174a50,0x23e0e40,A-voted,votes 18
+data,0x235b2f0,0x23f14a0,A-voted,votes 15
+data,0x235c3a0,0x23f2510,A-voted,votes 182
+data,0x235c488,0x23f25f8,A-voted,votes 96
+data,0x235f740,0x23f5870,A-voted,votes 125
+data,0x23b1310,0x2581ad0,A-voted,votes 3
+data,0x23dc610,0x25b21b0,A-voted,votes 9
+data,0x23de286,,X,
+data,0x24015e8,0x25d4a38,A-voted,votes 12
+data,0x2401618,0x25d4a28,A-voted,votes 6
+data,0x2405488,0x25d87f0,A-voted,votes 18
+data,0x2408280,0x25db820,A-voted,votes 9
+data,0x240a0e0,0x25dd5b0,A-voted,votes 27
+data,0x240bae0,,X,
+data,0x240c100,0x25df490,A-voted,votes 9
+data,0x240eec0,,X,
+data,0x24310a0,0x2605950,A-voted,votes 18
+data,0x2433b10,0x2608ba0,A-voted,votes 63
